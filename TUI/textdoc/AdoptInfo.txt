@@ -1,0 +1,203 @@
+Dog Adoption list:
+
+Jasper
+Young Male
+4 years old
+Australian Shepherd
+
+Pepper
+Adult Female
+9 years old
+Great Dane 
+
+Jossie
+Adult Female
+7 years old
+Black Mouth Curr
+
+King
+Young Male
+2 years old
+Dalmatian
+
+Clover
+Young Female
+4 years old
+Chihuahua
+
+Gus
+Adult Male
+8 years old
+Pug
+
+Rollo
+Adult Female
+7 years old
+Fox Terrier
+
+Spot
+Young Male
+2 years old
+Corgi
+
+Jack
+Young Male
+4 years old
+Husk
+Woody
+Adult Male
+9 years old
+Great Dane 
+
+Bella
+Adult Female
+7 years old
+Labrador
+
+Sargent
+Young Male
+2 years old
+Dalmatian
+
+Elizabeth
+Adult Female
+6 years old
+Jack Russell Terrier
+
+Doll
+Adult Female
+9 years old
+Chocolate Labrador
+
+Drew
+Adult Male
+7 years old
+Pit Bull
+
+Pooch
+Young Male
+2 years old
+Husky
+
+Max
+Young Male
+4 years old
+Mastiff
+
+Lil Bit
+Adult Female
+6 years old
+Labrador/ Terrier
+
+
+Shy
+Young Female
+2 years old
+Chihuahua
+
+Zeek
+Young Male
+2 years old
+Westie
+
+Cat Adoption list:
+
+Nala
+Young Female
+3 years old
+Tabby
+
+Elli
+Adult Female
+9 years old
+Dilute Tortie
+
+Jojo
+Adult Male
+7 years old
+Short Hair
+
+King
+Young Male
+2 years old
+Tabby-grey
+
+Clover
+Young Female
+4 years old
+Short Hair
+
+Gus
+Adult Male
+8 years old
+Tabby-orange
+
+Rollo
+Adult Male
+8 years old
+Tortoiseshell
+Spot
+Young Male
+2 years old
+Tuxedo
+
+Jack
+Young Male
+4 years old
+Tabby
+
+Woody
+Adult Male
+9 years old
+Tabby
+
+Bella
+Adult Female
+8 years old
+Tuxedo
+
+Sargent
+Young Male
+2 years old
+Tabby
+
+Elizabeth
+Adult Female
+6 years old
+Tortoiseshell
+
+Doll
+Adult Female
+9 years old
+Short Hair
+
+Fife
+Adult Male
+7 years old
+Tuxedo
+
+Spaz
+Young Male
+2 years old
+Short Hair
+
+
+Max
+Young Male
+4 years old
+Tabby
+
+Noel
+Adult Female
+8 years old
+Tabby
+
+Beana
+Young Female
+2 years old
+Tortoiseshell
+
+Felix
+Young Male
+2 months old
+Tuxedo
